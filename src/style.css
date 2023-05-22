@@ -1,0 +1,10 @@
+.canvas{
+    margin: auto;
+    width: 800px;
+}
+
+canvas{
+    margin: 0;
+    background-image: url(/src/clear-snake-game.jpg);
+    background-size: 1000px;
+}
